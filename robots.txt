@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sns-automation-agency.ai.studio/sitemap.xml
